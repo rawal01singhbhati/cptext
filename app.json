@@ -5,7 +5,7 @@
 
     "description": "A text extractor telegram bot.",
 
-    "repository": "https://github.com/rishavdevkr/cptext/",
+    "repository": "https://github.com/rawal01singhbhati/cptext",
     "buildpacks":[
         {
             "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
